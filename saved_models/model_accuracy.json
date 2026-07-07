@@ -1,0 +1,5 @@
+{
+  "gradient_boosting": 0.0,
+  "random_forest": 0.0,
+  "_note": "Run train_gradient_boosting.py and train_random_forest.py to populate"
+}

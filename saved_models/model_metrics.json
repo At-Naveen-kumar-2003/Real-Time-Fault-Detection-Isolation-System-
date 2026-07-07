@@ -1,0 +1,16 @@
+{
+  "gradient_boosting": {
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  "random_forest": {
+    "accuracy": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "oob_score": 0.0
+  },
+  "_note": "Run train_gradient_boosting.py and train_random_forest.py to populate"
+}
